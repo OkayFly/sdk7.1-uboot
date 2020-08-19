@@ -1,0 +1,2 @@
+        make rk3288_secure_defconfig
+        ./mkv7.sh
